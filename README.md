@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/arpancodes?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/arpancodes?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/E2VP_9UkdGE?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/8ECMoNe9KyA?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=arpancodes&show_icons=true&theme=tokyonight" /></p>
