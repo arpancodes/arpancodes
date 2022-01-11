@@ -13,7 +13,14 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCK-Tw8Dzu9e9ZxgQqoZzKAg?style=social" />
   </a>
 </p>
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=arpancodes&show_icons=true&theme=tokyonight" /></p>
+<!--<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=arpancodes&show_icons=true&theme=tokyonight" /></p>-->
+
+
+## :octocat: Github Stats
+
+![](https://raw.githubusercontent.com/arpancodes/github-stats/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/arpancodes/github-stats/output/generated/languages.svg)
+
 
 <!--
 **arpancodes/arpancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
