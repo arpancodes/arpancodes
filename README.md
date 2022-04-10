@@ -22,6 +22,8 @@ Whether you have a design in your mind or a professional design mock-up I can co
     
 Recently I was featured amongst the TOP 25 WEB DEVELOPERS in my country by the Government of India.
 I am a full time freelancer. I have worked on 200+ projects over the past 4 years.
+    
+And I love creating content!
 </p>
 
 ## Skills
